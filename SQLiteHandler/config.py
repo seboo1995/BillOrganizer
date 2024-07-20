@@ -1,0 +1,1 @@
+sConnString = 'sqlitecloud://cq8d1ndxsz.sqlite.cloud:8860?apikey=haK5QFdaXc4rOY9jjDmqRvG6huQQh5bg8aHQEPrPbHU'
